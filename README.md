@@ -1,0 +1,9 @@
+- Hi, I’m Justine Ponce
+- I’m interested in cars
+- I’m currently learning Physics, Chemistry, and cars
+- I'm originally from the Philippines
+- I'm a SOPHOMORE in Computer Engineering
+- I chose my major because I want to learn something new
+- A fun fact about me is:  My first project is 07 eclipse GT
+- What do I want to learn from EE 205?  Learn more about coding
+- A book or movie I'd recommend is:  The Unwanteds book series by Lisa McMann
